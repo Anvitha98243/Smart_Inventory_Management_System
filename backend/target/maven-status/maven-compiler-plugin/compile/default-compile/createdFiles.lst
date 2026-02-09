@@ -1,0 +1,14 @@
+com\inventory\model\User.class
+com\inventory\model\SignupRequest.class
+com\inventory\config\CorsConfig$1.class
+com\inventory\InventoryApplication.class
+com\inventory\repository\UserRepository.class
+com\inventory\model\AuthResponse.class
+com\inventory\model\LoginRequest.class
+com\inventory\service\AuthService.class
+com\inventory\service\EmailService.class
+com\inventory\controller\AuthController.class
+com\inventory\model\UserDTO.class
+com\inventory\config\CorsConfig.class
+com\inventory\util\JwtUtil.class
+com\inventory\model\ResetPasswordRequest.class

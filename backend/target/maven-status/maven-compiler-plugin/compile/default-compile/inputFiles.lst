@@ -1,0 +1,13 @@
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\service\EmailService.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\LoginRequest.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\User.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\controller\AuthController.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\ResetPasswordRequest.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\UserDTO.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\InventoryApplication.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\config\CorsConfig.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\repository\UserRepository.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\util\JwtUtil.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\AuthResponse.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\service\AuthService.java
+C:\Users\anvit\OneDrive\Desktop\smart-inventory-auth-with-email\backend\src\main\java\com\inventory\model\SignupRequest.java

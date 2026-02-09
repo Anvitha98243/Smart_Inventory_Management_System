@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Smart Inventory Management</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <h1>🏢 Smart Inventory</h1>
+            </div>
+            <div class="navbar-menu">
+                <span id="welcomeUser" class="welcome-text"></span>
+                <button id="logoutBtn" class="btn btn-secondary">Logout</button>
+            </div>
+        </nav>
+        
+        <div class="dashboard-content">
+            <div class="dashboard-header">
+                <h2>Welcome to Dashboard</h2>
+                <p>Manage your inventory system from here</p>
+            </div>
+            
+            <div class="user-info-card">
+                <h3>Your Profile</h3>
+                <div id="userProfile" class="user-details"></div>
+            </div>
+            
+            <div id="adminSection" class="admin-section" style="display: none;">
+                <h3>User Management (Admin Only)</h3>
+                <div class="users-table-container">
+                    <table id="usersTable" class="users-table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Username</th>
+                                <th>Email</th>
+                                <th>Full Name</th>
+                                <th>Role</th>
+                                <th>Status</th>
+                                <th>Created At</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="usersTableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="info-message">
+                <h4>Module 1: Authentication & Authorization - Completed ✅</h4>
+                <ul>
+                    <li>✓ Secure login system with JWT authentication</li>
+                    <li>✓ User registration with role-based access</li>
+                    <li>✓ Password reset functionality</li>
+                    <li>✓ Admin user management (create/delete employees)</li>
+                    <li>✓ Protected routes and data security</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
